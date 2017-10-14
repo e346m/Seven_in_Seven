@@ -3,5 +3,6 @@
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :main wordcount.word-frequencies
+  :main wordcount.core
+  ;:main wordcount.word-frequencies
   :dependencies [[org.clojure/clojure "1.8.0"]])
